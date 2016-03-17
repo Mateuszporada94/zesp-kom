@@ -1,2 +1,0 @@
-# zesp-kom
-Uniwersal Messenger

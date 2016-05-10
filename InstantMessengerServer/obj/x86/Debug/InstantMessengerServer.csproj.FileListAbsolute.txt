@@ -1,0 +1,7 @@
+C:\Users\Jarek\Desktop\messenger c#\InstantMessengerServer\bin\Debug\server.pfx
+C:\Users\Jarek\Desktop\messenger c#\InstantMessengerServer\bin\Debug\tools\generate_cert.bat
+C:\Users\Jarek\Desktop\messenger c#\InstantMessengerServer\bin\Debug\InstantMessengerServer.exe
+C:\Users\Jarek\Desktop\messenger c#\InstantMessengerServer\bin\Debug\InstantMessengerServer.pdb
+C:\Users\Jarek\Desktop\messenger c#\InstantMessengerServer\obj\x86\Debug\InstantMessengerServer.exe
+C:\Users\Jarek\Desktop\messenger c#\InstantMessengerServer\obj\x86\Debug\InstantMessengerServer.pdb
+C:\Users\Jarek\Desktop\messenger c#\InstantMessengerServer\obj\x86\Debug\InstantMessengerServer.csprojResolveAssemblyReference.cache

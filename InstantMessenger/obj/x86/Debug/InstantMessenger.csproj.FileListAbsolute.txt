@@ -1,0 +1,11 @@
+C:\Users\Jarek\Desktop\messenger c#\InstantMessenger\bin\Debug\InstantMessenger.exe.config
+C:\Users\Jarek\Desktop\messenger c#\InstantMessenger\bin\Debug\InstantMessenger.exe
+C:\Users\Jarek\Desktop\messenger c#\InstantMessenger\bin\Debug\InstantMessenger.pdb
+C:\Users\Jarek\Desktop\messenger c#\InstantMessenger\obj\x86\Debug\InstantMessenger.csprojResolveAssemblyReference.cache
+C:\Users\Jarek\Desktop\messenger c#\InstantMessenger\obj\x86\Debug\InstantMessenger.Form1.resources
+C:\Users\Jarek\Desktop\messenger c#\InstantMessenger\obj\x86\Debug\InstantMessenger.LogRegForm.resources
+C:\Users\Jarek\Desktop\messenger c#\InstantMessenger\obj\x86\Debug\InstantMessenger.Properties.Resources.resources
+C:\Users\Jarek\Desktop\messenger c#\InstantMessenger\obj\x86\Debug\InstantMessenger.TalkForm.resources
+C:\Users\Jarek\Desktop\messenger c#\InstantMessenger\obj\x86\Debug\InstantMessenger.csproj.GenerateResource.Cache
+C:\Users\Jarek\Desktop\messenger c#\InstantMessenger\obj\x86\Debug\InstantMessenger.exe
+C:\Users\Jarek\Desktop\messenger c#\InstantMessenger\obj\x86\Debug\InstantMessenger.pdb
